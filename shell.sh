@@ -1,4 +1,3 @@
-111111
-sdsdsd
-sdsdsdsd
-sdsdsd
+#!/bin/bash
+#
+echo  ok
