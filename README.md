@@ -13,4 +13,21 @@
   echo "  $0 -d ',' -k 2 -c -s nrk3 input.txt"
   echo "  # 按第2列统计频率，按第三列数值逆序排序"
 
+
+docker 方式启动cc
+
+cat cc_docker_run.sh
+
+
+docker 方式启动codex
+cat codex_docker_run.sh
+
+
+docker 方式启动codex-buildkit
+cat rootless.sh
+
+
+
+在codex中调用buildkit去构建镜像，做到打镜像环境隔离，从而安全构建
+
 ```
