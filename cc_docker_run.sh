@@ -1,0 +1,1 @@
+docker run --name=cc --hostname=fb655f931767 --mac-address=02:42:c0:a8:03:02 --volume /mnt/f/aiwork:/mnt --network=bridge --runtime=runc --detach=true -t swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/library/ubuntu:24.04 /bin/bash
