@@ -19,6 +19,9 @@ docker 方式启动cc
 cat cc_docker_run.sh
 
 
+#下面操作前提要科学上网
+
+首先启动一个容器安装一个
 docker 方式启动codex
 cat codex_docker_run.sh
 
